@@ -1,4 +1,4 @@
-token = '1926059896:AAEy2ErWBpvWGGtiWjiw2eELKZzbgWPghCw'
+token = '1920609265:AAEqulSFFLBDIgaPaPmzZxiCCc3mvFJoavM'
 admins = [621822017, 1077879424] #id каждого админа через запятую, брать в @get_id_bot
 chat = 'https://t.me/joinchat/wFGiR6IuBUYyMmEy' #кф воркеров
 chanel = 'https://t.me/joinchat/hGIkgA-yn68zNjgy' #канал с выплатами
